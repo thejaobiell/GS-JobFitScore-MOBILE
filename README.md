@@ -217,8 +217,8 @@ A API estará disponível em `http://localhost:9001`
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/FIAP-MOBILE/global-solution-jobfit-score.git
-cd global-solution-jobfit-score
+git clone https://github.com/thejaobiell/GS-JobFitScore-MOBILE.git
+cd GS-JobFitScore-MOBILE
 ```
 
 ### 2. Instale as Dependências
